@@ -1,0 +1,1 @@
+cycles=515 episodes=654091200 governed_crimes=0 ungoverned_crimes=54714864
